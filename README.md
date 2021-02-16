@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b361ff7c-064b-4814-aa22-2050e2bb6688/deploy-status)](https://app.netlify.com/sites/infallible-golick-8eb16c/deploys)
 
+[You can see the deployed app here](https://infallible-golick-8eb16c.netlify.app/)
 ## Available Scripts
 
 In the project directory, you can run:
