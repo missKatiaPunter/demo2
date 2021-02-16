@@ -4,8 +4,16 @@ exports[`test that App renders consistently matches a snapshot 1`] = `
 <div
   className="App"
 >
-  <p>
-    Hello World!!!!
-  </p>
+  <div>
+    <p>
+      Hello
+    </p>
+    <button
+      data-testid="counter-button"
+      onClick={[Function]}
+    >
+      0
+    </button>
+  </div>
 </div>
 `;
